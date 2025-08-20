@@ -1,5 +1,5 @@
 title: Test Huel
-#logo: path of image (circle face)
+#logo: path of image = /assets/img/test-image.jpeg   (assets/img Folder anlegen und alle benutzten bilder reintun)
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
